@@ -47,7 +47,7 @@ requires: <EIP number(s)> # Only required when you reference an EIP in the `Spec
 <!--
   The Specification section should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Ethereum platforms (besu, erigon, ethereumjs, go-ethereum, nethermind, or others).
 
-  It is recommended to follow RFC 2119 and RFC 8170. Do not remove the key word definitions if RFC 2119 and RFC 8170 are followed.
+  It is recommended to follow RFC 2119 and RFC 8174. Do not remove the key word definitions if RFC 2119 and RFC 8174 are followed.
 
   TODO: Remove this comment before submitting
 -->
@@ -79,14 +79,14 @@ TBD
   TODO: Remove this comment before submitting
 -->
 
-No backward compatibility issues found.
+No known backward compatibility issues.
 
 ## Test Cases
 
 <!--
   This section is optional for non-Core EIPs.
 
-  The Test Cases section should include expected input/output pairs, but may include a succinct set of executable tests. It should not include project build files. No new requirements may be be introduced here (meaning an implementation following only the Specification section should pass all tests here.)
+  The Test Cases section should include expected input/output pairs, but may include a succinct set of executable tests. It should not include project build files. No new requirements may be introduced here (meaning an implementation following only the Specification section should pass all tests here.)
   If the test suite is too large to reasonably be included inline, then consider adding it as one or more files in `../assets/eip-####/`. External links will not be allowed
 
   TODO: Remove this comment before submitting
