@@ -82,7 +82,7 @@ be judged legally invalid or ineffective under applicable law, then the
 Waiver shall be preserved to the maximum extent permitted taking into
 account Affirmer's express Statement of Purpose. In addition, to the
 extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
+person a royalty-free, non-transferable, non-sublicensable, non-exclusive,
 irrevocable and unconditional license to exercise Affirmer's Copyright and
 Related Rights in the Work (i) in all territories worldwide, (ii) for the
 maximum duration provided by applicable law or treaty (including future
@@ -108,7 +108,7 @@ express Statement of Purpose.
     statutory or otherwise, including without limitation warranties of
     title, merchantability, fitness for a particular purpose, non
     infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
+    the presence or absence of errors, whether or not discoverable, all to
     the greatest extent permissible under applicable law.
  c. Affirmer disclaims responsibility for clearing rights of other persons
     that may apply to the Work or any use thereof, including without
