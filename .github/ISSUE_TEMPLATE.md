@@ -4,7 +4,7 @@ If you are considering a proposal but would like to get some feedback on the ide
 
 Keep in mind the following guidelines from [EIP-1](https://eips.ethereum.org/EIPS/eip-1):
 
-> Each ERC must have a champion - someone who writes the ERC using the style and format described below, shepherds the discussions in the appropriate forums, and attempts to build community consensus around the idea. The EIP champion (a.k.a. Author) should first attempt to ascertain whether the idea is ERC-able. Posting to the the Protocol Discussion forum or opening an Issue is the best way to go about this.
+> Each ERC must have a champion - someone who writes the ERC using the style and format described below, shepherds the discussions in the appropriate forums, and attempts to build community consensus around the idea. The EIP champion (a.k.a. Author) should first attempt to ascertain whether the idea is ERC-able. Posting to the Protocol Discussion forum or opening an Issue is the best way to go about this.
 
 > Vetting an idea publicly before going as far as writing a ERC is meant to save the potential author time. Asking the Ethereum community first if an idea is original helps prevent too much time being spent on something that is guaranteed to be rejected based on prior discussions (searching the Internet does not always do the trick). It also helps to make sure the idea is applicable to the entire community and not just the author. Just because an idea sounds good to the author does not mean it will work for most people in most areas where Ethereum is used.
 
